@@ -1,0 +1,5 @@
+160344.089: INFO: Com Port Ready ...
+160344.089: INFO: Preparing to send config: ASC ON
+
+160344.589: ERROR: Unit unresponsive, exiting
+

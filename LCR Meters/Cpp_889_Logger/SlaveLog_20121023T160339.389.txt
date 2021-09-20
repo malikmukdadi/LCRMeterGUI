@@ -1,0 +1,4 @@
+160339.389: INFO: slave online
+160339.389: INFO: attempting to connect to comm pipe
+160339.389: ERROR: server not available
+160344.609: INFO: System shutdown, press enter to close terminal

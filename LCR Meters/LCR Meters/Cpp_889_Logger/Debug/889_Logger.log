@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  CommClass_889.cpp
+C:\Users\Alli\Desktop\LCR Meters\889_Logger\CommClass_889.cpp(588,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  889_Logger.vcxproj -> C:\Users\Alli\Desktop\LCR Meters\889_Logger\Debug\889_Logger.exe

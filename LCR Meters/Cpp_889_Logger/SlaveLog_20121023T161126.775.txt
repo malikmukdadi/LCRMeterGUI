@@ -1,0 +1,3 @@
+161126.775: INFO: slave online
+161126.775: INFO: attempting to connect to comm pipe
+161126.775: ERROR: server not available

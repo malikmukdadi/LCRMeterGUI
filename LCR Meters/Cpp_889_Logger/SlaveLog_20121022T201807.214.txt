@@ -1,0 +1,3 @@
+201807.217: INFO: slave online
+201807.217: INFO: attempting to connect to comm pipe
+201807.218: ERROR: server not available

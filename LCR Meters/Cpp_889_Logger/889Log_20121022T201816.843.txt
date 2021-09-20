@@ -1,0 +1,4 @@
+INFO: Com Port Ready ...
+INFO: Preparing to send config: 
+ERROR: Unit unresponsive, exiting
+
